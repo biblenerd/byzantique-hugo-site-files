@@ -1,4 +1,9 @@
+# hugo generated files
+/resources/_gen/
+/assets/jsconfig.json
+hugo_stats.json
 /public/
+/.hugo_build.lock
 
 # macOS
 .DS_Store
