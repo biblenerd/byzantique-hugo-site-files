@@ -15,8 +15,9 @@ Site for storing notes on biblical (and perhaps other) texts.
 ## Author
 
 Dan
-qohelet.dan@pm.me
-[@qohelet_dan](https://twitter.com/qohelet_dan)
+
+- qohelet.dan@pm.me
+- [@qohelet_dan](https://twitter.com/qohelet_dan)
 
 ## Resources
 
