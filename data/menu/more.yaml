@@ -1,0 +1,11 @@
+---
+more:
+  - name: Abbreviations
+    ref: "/abbrev"
+  - name: Blog
+    ref: "https://qohelet.io"
+    external: true
+  - name: Contact
+    ref: "/contact"
+  - name: FAQs
+    ref: "/faqs"

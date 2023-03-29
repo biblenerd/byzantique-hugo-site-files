@@ -1,0 +1,61 @@
+---
+main:
+  - name: Welcome
+    ref: "/welcome"
+    sub:
+      - name: Texts & Translations
+        ref: "/welcome/texts"
+      - name: Perspective
+        ref: "/welcome/perspective"
+  - name: Old Testament
+    ref: "/ot"
+    sub:
+      - name: Pentateuch
+        ref: "/ot/pentateuch"
+        sub:
+        - name: Genesis
+          ref: "/ot/pentateuch/genesis"
+        - name: Exodus
+          ref: "/ot/pentateuch/exodus"
+        - name: Leviticus
+          ref: "/ot/pentateuch/leviticus"
+        - name: Numbers
+          ref: "/ot/pentateuch/numbers"
+        - name: Deuteronomy
+          ref: "/ot/pentateuch/deuteronomy"
+      - name: History
+        ref: "/ot/history"
+      - name: Wisdom & Poetry
+        ref: "/ot/wisdom"
+      - name: Prophets
+        ref: "/ot/prophets"
+        sub:
+        - name: Minor
+          ref: "/ot/prophets/minor"
+        - name: Major
+          ref: "/ot/prophets/major"
+  - name: New Testament
+    ref: "/nt"
+    sub:
+      - name: Gospels
+        ref: "/nt/gospels"
+        sub:
+          - name: Matthew
+            ref: "/nt/gospels/matthew"
+          - name: Mark
+            ref: "/nt/gospels/mark"
+          - name: Luke
+            ref: "/nt/gospels/luke"
+          - name: John
+            ref: "/nt/gospels/john"
+      - name: Acts of the Apostles
+        ref: "/nt/acts"
+      - name: Epistles
+        ref: "/nt/epistles"
+        sub:
+        - name: Pauline
+          ref: "/nt/epistles/pauline"
+        - name: General
+          ref: "/nt/epistles/general"
+      - name: Revelation
+        ref: "/nt/revelation"
