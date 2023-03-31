@@ -22,11 +22,12 @@ At times, I may alter translations but indicate the base translation that was al
     - [*Biblia Hebraica Stuttgartensia (BHS).* Electronic ed. Stuttgart: German Bible Society, 2003.](https://www.logos.com/product/17645/biblia-hebraica-stuttgartensia-bhs-with-apparatus)
     - [Unicode/XML Leningrad Codex (UXLC)](https://tanach.us)
   - English
-    - [Updated Brenton English Septuagint](https://ebible.org/Scriptures/details.php?id=englxxup)
+    - [Sir Lancelot C. L. Brenton, Robert Adam Boyd, ed., *Updated Brenton English Septuagint (ENGLXXUP)*, 1851 / 2020.](https://ebible.org/Scriptures/details.php?id=englxxup)
     - [World English Bible (WEB) with Deuterocanon](https://ebible.org/Scriptures/details.php?id=eng-web)
     - [Orthodox Study Bible (OSB)](https://store.ancientfaith.com/orthodox-study-bible/)
     - [Pietersma, Albert, and Benjamin G. Wright, eds. *A New English Translation of the Septuagint (NETS).* New York; Oxford: Oxford University Press, 2007.](https://ccat.sas.upenn.edu/nets/)
     - [Brannan, Rick, Ken M. Penner, Michael Aubrey, Israel Loken, and Isaiah Hoogendyk. *The Lexham English Septuagint (LES).* Second Edition. Bellingham, WA: Lexham Press, 2020.](https://www.logos.com/product/188040/the-lexham-english-septuagint-2nd-ed)
+    - [Robert Alter, ed., *The Hebrew Bible: A Translation with Commentary*, 3 volumes (New York; London: W. W. Norton & Company, 2019).](https://www.amazon.com/Hebrew-Bible-Translation-Commentary-Three/dp/0393292495)
     - King James Version (KJV)
 - New Testament (Byzantine)
   - Greek
@@ -54,3 +55,7 @@ I belong to an Eastern Orthodox parish that uses the Byzantine Lectionary associ
 ## What does a certain abbreviation mean?
 
 See [Common Abreviations](/abbrev)
+
+## Alterations of translations
+
+Where I've generally followed an existing translation but have altered it, I've retained the acronym designating that specific translation but have indicated it has been altered and placed modifications in brackets. These are my own alterations and are not endorsed by the translators and/or editors of the respective base translations.

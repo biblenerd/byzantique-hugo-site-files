@@ -44,6 +44,8 @@ I urge you therefore, brothers, by the mercies of God, to present your bodies as
 
 The Bible that we have received has been handed down through/in Holy Tradition and records the journey of God's family within the context of historical covenants. The text itself cannot be rightly understood or appreciated if divorced from its living covenantal community, the Church, and its associated Tradition.
 
+I also consult works from contemporary scholarship, including historical-critical perspectives. In fact, since the hard work of living out the teachings of the Scriptures occurs in *praxis* rather than in written form, much of what is written here represents academic insights more than practical.
+
 ## What do you believe?
 
 I believe in one God,<br />

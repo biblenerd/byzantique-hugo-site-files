@@ -17,7 +17,9 @@ This site contains my notes on Scripture and other Christian texts.
 
 I made this site primarily for *myself* so that I can access and share my notes from anywhere. For anyone stumbling upon this site who wasn't sent here by me, I hope you find it helpful!
 
-This site is a work in progress and I add notes as I have time. It is not intended to be comprehensive nor to serve as an introduction to the Scriptures.
+This site is a work in progress and I add notes as I have time. **It is not intended to be comprehensive nor to serve as an introduction to the Scriptures.** If you find something helpful, great! However, if you find it confusing, I know that I don't explain most things and I assume a bit of knowledge. I often only allude to ideas without fully developing them. 
+
+I do *not* intend to write an introductory resource&mdash;there are plenty of others who have done that already. At some point, I'll probably post some recommended resources for learning more. In the interim, there are lots of citations throughout this site you can consult.
 
 ## Who are you?
 
@@ -30,6 +32,7 @@ My name is Dan. I'm a husband, father, reader, thinker, and geek. That sentence 
 - I'm a [pledged member](https://www.stpaisiosbrotherhood.com/the-pledge) of the [St. Paisios Brotherhood](https://www.stpaisiosbrotherhood.com/)
 - I like tacos
 - I have a love/hate relationship with computers (and work with them professionally)
+- I'm a moderator at the [Christianity Codidact site](https://christianity.codidact.com).
 
 ## Disclaimers
 

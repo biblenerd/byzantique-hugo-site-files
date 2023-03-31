@@ -16,7 +16,7 @@ I made this site primarily for *myself* so that I can access and share my notes 
 
 ### What does the site name mean?
 
-The site name is wordplay on "Byzantine," "antique," and "boutique." This site contains my notes on Scriptural (and perhaps other) ancient texts and approaches them from within the Byzantine (i.e., Eastern) Christian tradition.
+"Byzantique" is wordplay on "Byzantine," "antique," and "boutique." This site contains my notes on Scriptural (and perhaps other) ancient texts and approaches them from within the Byzantine (i.e., Eastern) Christian tradition.
 
 <--->
 

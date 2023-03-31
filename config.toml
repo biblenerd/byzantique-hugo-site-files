@@ -32,7 +32,7 @@ enableRobotsTXT = true
 
    # (Optional, default static/brand.svg) Set the path to a logo for the Geekdoc
    # relative to your 'static/' folder.
-   geekdocLogo = "logo.svg"
+   geekdocLogo = "/img/logo.svg"
 
    # (Optional, default false) Collapse all menu entries, can not be overwritten
    # per page if enabled. Can be enabled per page via 'geekdocCollapseSection'.

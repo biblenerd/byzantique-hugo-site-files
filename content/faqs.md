@@ -38,6 +38,8 @@ Inspiration for this site includes:
 
 I have been using Evernote and documents saved on my computer for a long time to keep track of various notes, but it's getting harder to find things, so I figured a more organized approach is in order. Also, posting it publicly allows me to more easily share my notes with others when referencing them in discussions. Hence this site.
 
+With that said, I update this in my free time, which is limited. A lot of my notes haven't been migrated here yet, and the process is a bit burdensome.
+
 ## Where can I learn more about Eastern Orthodox Christianity?
 
 This is not an exhaustive list, but can serve as a starting point.
