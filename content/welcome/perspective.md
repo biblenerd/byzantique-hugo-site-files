@@ -16,7 +16,7 @@ draft: false
 
 I am an Eastern Orthodox Christian and so approach Scripture from a Byzantine Christian perspective.
 
-I am a convert to Orthodoxy from Protestant Christianity, and I'm still *unlearning* how I was taught to read the Bible within various Protestant "tribes." I've been Orthodox for over a decade. I'm not an expert, just an interested perpetual student.
+I am a convert to Orthodoxy from Protestant Christianity, and [I'm still *unlearning* how I was taught to read the Bible within various Protestant "tribes."](https://qohelet.io/the-word-isnt-a-book) I've been Orthodox for over a decade. I'm not an expert, just an interested perpetual student.
 
 {{<hint type=note icon=gdoc_keyboard_arrow_right title="Quote">}}
 
@@ -42,9 +42,9 @@ I urge you therefore, brothers, by the mercies of God, to present your bodies as
 
 {{</hint>}}
 
-The Bible that we have received has been handed down through/in Holy Tradition and records the journey of God's family within the context of historical covenants. The text itself cannot be rightly understood or appreciated if divorced from its living covenantal community, the Church, and its associated Tradition.
+The Bible that we have received has been handed down through/in Holy Tradition and records the journey of God's family within the context of historical covenants. The text itself cannot be rightly understood or appreciated if divorced from its living covenantal community, the Church, and its associated [Tradition](https://qohelet.io/tradition-vs-traditionalism).
 
-I also consult works from contemporary scholarship, including historical-critical perspectives. In fact, since the hard work of living out the teachings of the Scriptures occurs in *praxis* rather than in written form, much of what is written here represents academic insights more than practical.
+I also consult works from contemporary scholarship, including historical-critical perspectives. In fact, since the hard work of living out the teachings of the Scriptures occurs in *praxis* rather than in written form, much of what is written here represents academic insights more than practical. Above all, I try to read the Scriptures through the [hermeneutic of love](https://qohelet.io/hermeneutic-of-love).
 
 ## What do you believe?
 

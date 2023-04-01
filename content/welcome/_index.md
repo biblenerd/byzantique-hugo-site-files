@@ -5,7 +5,7 @@ draft: false
 geekdocCollapseSection: true
 ---
 
-Welcome to Byzantique!
+Welcome to **Byzantique!**
 
 {{<hint type=important icon=gdoc_fire title="James 1:22-25 (BTV)">}}
 
@@ -26,13 +26,17 @@ I do *not* intend to write an introductory resource&mdash;there are plenty of ot
 My name is Dan. I'm a husband, father, reader, thinker, and geek. That sentence was intentionally written with an Oxford comma. Μέγα βιβλίον μέγα κακόν.
 
 - I'm an Eastern Orthodox Christian
-- [I blog](https://qohelet.io)
-- [I tweet](https://twitter.com/qohelet_dan)
 - I study Christian Scriptures, history, and related texts
 - I'm a [pledged member](https://www.stpaisiosbrotherhood.com/the-pledge) of the [St. Paisios Brotherhood](https://www.stpaisiosbrotherhood.com/)
-- I like tacos
-- I have a love/hate relationship with computers (and work with them professionally)
-- I'm a moderator at the [Christianity Codidact site](https://christianity.codidact.com).
+- I'm a moderator at the [Christianity Codidact site](https://christianity.codidact.com)
+- I like tacos and dad jokes
+- I have a love/hate relationship with technology (and I work in the tech sector)
+- I enjoy working on projects at the intersection of computer science, linguistics, and philology (especially working with the Bible and related resources)
+  - I'm on a team that is preparing an updated text-critical Robinson Pierpont Greek New Testament with comparisons to other printed editions
+  - I created and maintain a reference on resources for software developers and computer power users interested in working with biblical texts: [Awesome Bible Developer Resources](https://github.com/biblenerd/awesome-bible-developer-resources)
+- [I blog](https://qohelet.io)
+- [I tweet](https://twitter.com/qohelet_dan)
+- [I code](https://github.com/biblenerd)
 
 ## Disclaimers
 

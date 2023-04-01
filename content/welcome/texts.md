@@ -50,7 +50,7 @@ If you're a software developer or other computer power user, check out these [Aw
 
 ## Lectionary
 
-I belong to an Eastern Orthodox parish that uses the Byzantine Lectionary associated with Revised Julian calendar. Lectionary references herein generally align to this.
+I belong to an Eastern Orthodox parish that uses the Byzantine Lectionary associated with the Revised Julian calendar. Lectionary references herein generally align to this.
 
 ## What does a certain abbreviation mean?
 
@@ -58,4 +58,4 @@ See [Common Abreviations](/abbrev)
 
 ## Alterations of translations
 
-Where I've generally followed an existing translation but have altered it, I've retained the acronym designating that specific translation but have indicated it has been altered and placed modifications in brackets. These are my own alterations and are not endorsed by the translators and/or editors of the respective base translations.
+Where I've generally followed an existing translation but have altered it, I've retained the acronym designating that specific translation but have indicated it has been altered and placed modifications in brackets and/or add a footnote. These are my own alterations and are not endorsed by the translators and/or editors of the respective base translations.
