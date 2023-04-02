@@ -51,3 +51,5 @@ Feel free to click on any links, but just know that I do not endorse, control, o
 I may use copyrighted material which has not always been specifically authorized by the copyright owner. I am making such material available for criticism, comment, news reporting, teaching, scholarship, or research.
 
 I believe this constitutes a "fair use" of any such copyrighted material as provided for in section 107 of the United States Copyright law.
+
+[DMCA takedown request](/faqs/#please-take-down-copyrighted-material)

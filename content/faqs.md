@@ -76,3 +76,13 @@ This is not an exhaustive list, but can serve as a starting point.
 ## You're wrong! (You found an error)
 
 Thanks for your attention to detail. Feel free to [contact me](/contact), or if you're familiar with using [GitHub](https://github.com/biblenerd/byzantique-hugo-site-files), by all means [file an issue](https://github.com/biblenerd/byzantique-hugo-site-files/issues) or [send a pull request](https://github.com/biblenerd/byzantique-hugo-site-files/pulls). Please note that it may take ma a while to acknowledge and handle your message. I appreciate your patience.
+
+## Please take down copyrighted material
+
+Please note that this is a nonprofit website. I do not sell nor knowingly use advertising nor any other means of earning income from this website.
+
+I use and quote from copyrighted material which has not always been specifically authorized by the copyright owner(s). I am making such material available for criticism, comment, news reporting, teaching, scholarship, or research.
+
+I believe this constitutes a "fair use" of any such copyrighted material as provided for in section 107 of the United States Copyright law.
+
+However, if you disagree and wish to request that I take down certain materials (i.e., DMCA takedown ), clarify a citation or other reference, etc., please [contact me](/contact) with a precise description of what you'd like removed, why, and a direct link to the specific content. I'll review your request and get back to when I have an opportunity to do so.

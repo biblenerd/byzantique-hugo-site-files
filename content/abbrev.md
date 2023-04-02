@@ -35,6 +35,7 @@ draft: false
 | PATr | *Patriarchal Greek New Testament*, Patriarchal Press of the Ecumenical Patriarchate of Constantinople, 1904 with 1912 revisions by Basil Antoniades. (Abbreviated in TCENT text-critical footnotes as "ANT") |
 | PCK | Wilbur Pickering, *The Greek New Testament According to Family 35*, 3rd edition (2020); see [TCENT footnotes usage](#what-do-the-abbreviations-mean-in-the-text-critical-footnotes-of-the-tcent-translation) |
 | RP | Maurice A. Robinson & William G. Pierpont, *The New Testament in the Original Greek: Byzantine Textform* (I generally append the year of the version cited, e.g., RP2018 for the 2018 edition) |
+| RSV | *The Revised Standard Version.* 1971 |
 | SBL | Holmes, Michael W. *The Greek New Testament: SBL Edition*. Lexham Press; Society of Biblical Literature, 2011–2013. |
 | TCENT | Robert Adam Boyd, *Text-Critical English New Testament* |
 | TR | Textus Receptus (I generally include additional details if a specific edition is intended); see [TCENT footnotes usage](#what-do-the-abbreviations-mean-in-the-text-critical-footnotes-of-the-tcent-translation) |
