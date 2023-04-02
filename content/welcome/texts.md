@@ -6,7 +6,7 @@ draft: false
 
 This page does not contain an exhaustive list, but I primarily consult and comment upon these specific texts and translations.
 
-While these are not the only texts consulted, these are the ones I primarily read. To avoid any copyright violations, I predominantly quote from public domain texts or works licensed in ways that don't heavily restrict my ability to cite them (e.g., Creative Commons licenses, copyright licenses explicitly allowing usage by Orthodox Christians for nonprofit purposes, etc.).
+While these are not the only texts consulted, these are the ones I primarily read. I predominantly quote the Scriptures from public domain texts or from works licensed in ways that don't heavily restrict my ability to cite them (e.g., Creative Commons licenses, copyright licenses explicitly allowing usage by Orthodox Christians for nonprofit purposes, etc.).
 
 At times, I may alter translations but indicate the base translation that was altered and indicate that changes have been made. I may also translate a text into English myself.
 

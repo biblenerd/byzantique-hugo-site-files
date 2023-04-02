@@ -29,6 +29,7 @@ draft: false
 | NA<sup>27</sup> | Nestle, Eberhard, Erwin Nestle, Barbara Aland, Kurt Aland, Johannes Karavidopoulos, Carlo M. Martini, and Bruce M. Metzger. *The Greek New Testament.* 27th ed. Stuttgart: Deutsche Bibelgesellschaft, 1993. |
 | NA<sup>28</sup> | Aland, Kurt, Barbara Aland, Johannes Karavidopoulos, Carlo M. Martini, and Bruce M. Metzger. *Novum Testamentum Graece.* 28th Edition. Stuttgart: Deutsche Bibelgesellschaft, 2012. |
 | NETS | Pietersma, Albert, and Benjamin G. Wright, eds. *A New English Translation of the Septuagint.* New York; Oxford: Oxford University Press, 2007. |
+| NKJV | *The New King James Version*. Nashville: Thomas Nelson, 1982. |
 | NT | New Testament |
 | OSB | St. Athanasius Orthodox Academy, ed. *The Orthodox Study Bible.* Nashville: Thomas Nelson, 2008. |
 | OT | Old Testament |

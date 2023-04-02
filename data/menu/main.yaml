@@ -20,6 +20,8 @@ main:
               ref: "/ot/pentateuch/genesis/1/1"
             - name: Fall (2:20–3:20)
               ref: "/ot/pentateuch/genesis/2/20"
+            - name: Expulsion & Children (3:21–4:7)
+              ref: "/ot/pentateuch/genesis/3/21"
         - name: Exodus
           ref: "/ot/pentateuch/exodus"
         - name: Leviticus

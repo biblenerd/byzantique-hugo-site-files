@@ -40,6 +40,16 @@ I have been using Evernote and documents saved on my computer for a long time to
 
 With that said, I update this in my free time, which is limited. A lot of my notes haven't been migrated here yet, and the process is a bit burdensome.
 
+## Why do you use archaic language in the Old Testament?
+
+Unfortunately, many English translations of the Bible are copyrighted in such a way that does not allow me to use large portions of these translations on this website. That is unfortunate. As such, I've opted to predominantly quote the Scriptures from public domain texts or from works licensed in ways that don't heavily restrict my ability to cite them (e.g., Creative Commons licenses, copyright licenses explicitly allowing usage for nonprofit purposes, etc.). 
+
+For the New Testament, there are some great translations in contemporary English that are public domain or that otherwise can be cited from relatively freely (e.g., BTV, TCENT, WEB, NET). For the Old Testament translated from the Hebrew MT, there are similarly good translations in contemporary English with permissive licensing (e.g., WEB, JPS Tanakh 1917). However, for the Greek LXX Old Testament, the options are more limited. I herein predominantly quote the LXX from the ENGLXXUP, which is a modernized version of Brenton's 1851 Septuagint English translation (Robert Adam Boyd revised it in 2020 and released it into the public domain).
+
+## What does this abbreviation mean?
+
+See the list of [Common Abbreviations](/abbrev) used on this site.
+
 ## Where can I learn more about Eastern Orthodox Christianity?
 
 This is not an exhaustive list, but can serve as a starting point.
