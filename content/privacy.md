@@ -45,7 +45,7 @@ The security of your data is important to us, but remember that no method of tra
 
 ## Third Party Links
 
-This website may contain links to other websites that are not operated by us. If you click on a third party link, you will be directed to that third party's site. We strongly advise you to review the Privacy Policy of every site You visit.
+This website may contain links to other websites that are not operated by us. If you click on a third party link, you will be directed to that third party's site. We strongly advise you to review the Privacy Policy of every site you visit.
 
 We have no control over and assume no responsibility for the content, security, privacy policies, or practices of any third party sites or services.
 

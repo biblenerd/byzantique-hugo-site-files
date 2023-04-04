@@ -19,7 +19,7 @@ I made this site primarily for *myself* so that I can access and share my notes 
 
 This site is a work in progress and I add notes as I have time. **It is not intended to be comprehensive nor to serve as an introduction to the Scriptures.** If you find something helpful, great! However, if you find it confusing, I know that I don't explain most things and I assume a bit of knowledge. I often only allude to ideas without fully developing them. 
 
-I do *not* intend to write an introductory resource&mdash;there are plenty of others who have done that already. At some point, I'll probably post some recommended resources for learning more. In the interim, there are lots of citations throughout this site you can consult.
+I do *not* intend to write an introductory resource&mdash;there are plenty of others who have done that already. At some point, I'll probably post some recommended resources for learning more. In the interim, there are lots of citations throughout this site you can consult. I've also tried to document various conventions and references to help interested parties wade through my notes, including [defining common abbreviations](/abbrev) I use.
 
 ## Who are you?
 

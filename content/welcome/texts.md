@@ -28,8 +28,9 @@ At times, I may alter translations but indicate the base translation that was al
     - [Pietersma, Albert, and Benjamin G. Wright, eds. *A New English Translation of the Septuagint (NETS).* New York; Oxford: Oxford University Press, 2007.](https://ccat.sas.upenn.edu/nets/)
     - [Brannan, Rick, Ken M. Penner, Michael Aubrey, Israel Loken, and Isaiah Hoogendyk. *The Lexham English Septuagint (LES).* Second Edition. Bellingham, WA: Lexham Press, 2020.](https://www.logos.com/product/188040/the-lexham-english-septuagint-2nd-ed)
     - [Robert Alter, ed., *The Hebrew Bible: A Translation with Commentary*, 3 volumes (New York; London: W. W. Norton & Company, 2019).](https://www.amazon.com/Hebrew-Bible-Translation-Commentary-Three/dp/0393292495)
+    - [*New English Translation* / NET Bible&reg;, Biblical Studies Press, L.L.C., 1996, 2019.](https://netbible.org)
     - King James Version (KJV)
-- New Testament (Byzantine)
+- New Testament
   - Greek
     - [Η Καινή Διαθήκη: 1904 Patriarchal Greek New Testament with 20 corrections from later editions](https://ebible.org/Scriptures/details.php?id=grcbyz)
     - [Maurice A. Robinson & William G. Pierpont, *The New Testament in the Original Greek: Byzantine Textform 2005, with Morphology.* Bellingham, WA: Logos Bible Software, 2006](https://www.logos.com/product/1792/the-new-testament-in-the-original-greek-byzantine-textform-2005-with-morphology)
@@ -42,6 +43,7 @@ At times, I may alter translations but indicate the base translation that was al
     - [Orthodox Study Bible (OSB)](https://store.ancientfaith.com/orthodox-study-bible/)
     - [Laurent Cleenewerck, ed. *The Eastern/Greek Orthodox Bible (EOB): New Testament.* 2011](https://www.logos.com/product/32406/eastern-greek-orthodox-bible-new-testament)
     - [N.T. Wright. *The Bible for Everyone (B4E): A New Translation.* London: SPCK, 2018.](https://www.logos.com/product/168029/the-bible-for-everyone)
+    - [*New English Translation* / NET Bible&reg;, Biblical Studies Press, L.L.C., 1996, 2019.](https://netbible.org)
     - King James Version (KJV)
 
 Again, this is not a complete listing, but contains the main texts I read and study.
