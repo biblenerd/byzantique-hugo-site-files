@@ -50,6 +50,17 @@ For the New Testament, there are some great translations in contemporary English
 
 See the list of [Common Abbreviations](/abbrev) used on this site.
 
+## Why is there a weird letter 'u' in quotes from the Bible?
+
+The BTV and TCENT translation use the 'ʋ' character to indicate second person singular pronouns.
+
+{{<hint type=note icon=gdoc_keyboard_arrow_right title="Quote">}}
+One of the greatest advantages of archaic translations like the King James Version is the ability to differentiate between second person singular and second person plural by the use of archaic pronouns such as *thou* and *ye*. In order to maintain these distinctions, the *Byzantine Text Version* differentiates between second person singular and second person plural by using an alternate letter (ʋ) in second person singular pronouns. Consequently, the words *yoʋ*, *yoʋr*, and *yoʋrs* indicate second person singular, while the words *you*, *your*, and *yours* indicate second person plural. The casual reader will barely notice the difference, while the careful reader will be able to discern whether the pronoun is singular or plural.
+
+---
+"Matters of Orthography," in Introduction to Robert Adam Boyd, *Byzantine Text Version (BTV) 2021*. Lulu Press, 2022. [See TCENT introduction.](https://ebible.org/engtcent/INT01.htm)
+{{</hint>}}
+
 ## Where can I learn more about Eastern Orthodox Christianity?
 
 This is not an exhaustive list, but can serve as a starting point.
