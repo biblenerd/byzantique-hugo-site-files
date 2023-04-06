@@ -2,7 +2,7 @@
 /resources/_gen/
 /assets/jsconfig.json
 hugo_stats.json
-/public/
+# /public/  # needed for CI -> Netlify
 /.hugo_build.lock
 
 # macOS
