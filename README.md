@@ -18,7 +18,7 @@ Dan, [@qohelet_dan](https://twitter.com/qohelet_dan)
 
 ## Deployment target
 
-Netlify associated with [this repo](https://github.com/biblenerd/byzantique.com).
+Netlify
 
 ## Resources
 
