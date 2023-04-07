@@ -18,7 +18,7 @@ Dan, [@qohelet_dan](https://twitter.com/qohelet_dan)
 
 ## Deployment target
 
-Netlify
+Netlify: [https://byzantique.netlify.app](https://byzantique.netlify.app)
 
 ## Resources
 
