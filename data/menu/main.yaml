@@ -22,6 +22,8 @@ main:
               ref: "/ot/pentateuch/genesis/2/20"
             - name: Exile & Children (3:21–4:7)
               ref: "/ot/pentateuch/genesis/3/21"
+            - name: Murder, Cain's Lineage, Seth (4:8–4:26)
+              ref: "/ot/pentateuch/genesis/4/8"
         - name: Exodus
           ref: "/ot/pentateuch/exodus"
         - name: Leviticus

@@ -26,3 +26,5 @@ In general, the LXX follows the Hebrew closely for the book of Genesis. However,
 | [Genesis 3:1–20](/ot/pentateuch/genesis/2/20/#the-serpent-and-the-fall-of-humanity-3120) | 1st Friday of Great Lent (2:20–3:20) | The Serpent and the Fall of Humanity |
 | [Genesis 3:21–24](/ot/pentateuch/genesis/3/21/#exiled-from-paradise-321324) | 2nd Monday of Great Lent (3:21–4:7) | Exiled from Paradise |
 | [Genesis 4:1–7](/ot/pentateuch/genesis/3/21/#the-first-children-417) | 2nd Monday of Great Lent (3:21–4:7) | The First Children |
+| [Genesis 4:8–15](/ot/pentateuch/genesis/4/8/#the-first-murder-4815) | 2nd Tuesday of Great Lent | The First Murder |
+| [Genesis 4:16–26](/ot/pentateuch/genesis/4/8/#cains-lineage-and-birth-of-seth-41626) | 2nd Wednesday of Great Lent | Cain's Lineage and Birth of Seth |

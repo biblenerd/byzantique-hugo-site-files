@@ -8,7 +8,7 @@ This page does not contain an exhaustive list, but I primarily consult and comme
 
 While these are not the only texts consulted, these are the ones I primarily read. I predominantly quote the Scriptures from public domain texts or from works licensed in ways that don't heavily restrict my ability to cite them (e.g., Creative Commons licenses, copyright licenses explicitly allowing usage by Orthodox Christians for nonprofit purposes, etc.).
 
-At times, I may alter translations but indicate the base translation that was altered and indicate that changes have been made. I may also translate a text into English myself.
+At times, I may alter translations but indicate the base translation that was altered and indicate that changes have been made. I may also translate a text into English myself. When no version information is given, and it just says something to the effect "translation from the LXX," that generally means I've translated a text directly from the source text(s) indicated. For the Hebrew Old Testament, I generally follow BHS but will begin with the WEB as my base English translation and alter it when I see fit. For the LXX, I generally follow Swete (but may also consult Rahlf and the Göttingen LXX), but begin with Brenton ENGLXXUP as my English base translation and alter it as I see fit. When I began this process, I annotated and footnoted all of my alterations, but after Genesis 4, ceased annotating / footnoting them. For the Greek New Testament, I generally will cite the BTV / TCENT but occasionally follow the EOB. I generally indicate when/where altered for the NT.
 
 ## Scriptures
 
