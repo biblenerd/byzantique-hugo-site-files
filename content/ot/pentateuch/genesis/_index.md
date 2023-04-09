@@ -19,7 +19,7 @@ In general, the LXX follows the Hebrew closely for the book of Genesis. However,
 | [Genesis 2:4–19](/ot/pentateuch/genesis/1/1/#creation-of-adam-2419) | 1st Thursday of Great Lent | Creation of Adam |
 | [Genesis 2:20–24](/ot/pentateuch/genesis/2/20/#creation-of-eve-zoe--life-22024) | 1st Friday of Great Lent (2:20–3:20) | Creation of Eve (Zoe / Life) |
 
-## Fall and Exile of Humanity (2:20–4:7)
+## Fall and Exile of Humanity (2:20–4:26)
 
 | Pericope  | Lectionary (Byzantine: Revised Julian)  | Title |
 | --------- | --------------------------------------- | ----- |
